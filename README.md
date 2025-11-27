@@ -1,2 +1,3 @@
 # My-Very-Own-Hackpad---Using-Hack-Club
 This is my first ever build from scratch. This is a macropad with 4 keys, made by using the tutorial provided by Hack Club. 
+My name is Mridul Goel, and I am a sophmore. I aspire to be a future aerospace engineer, and as such I though that it would be a good idea to get into this kind of stuff. What you are looking at is a 4 Key macropad, that I made for my first ever project, just to get the hang of things, and different kinds of softwares that are avaliable. I mainly used KiCad for the schematic, and the main PCB wiring. Then I moved onto Fusion 360, working on the bottom and the top case to house te microcontroller and everything as such. 
