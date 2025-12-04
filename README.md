@@ -8,7 +8,9 @@ What everything is:
 3. <img width="194" height="210" alt="image" src="https://github.com/user-attachments/assets/e2d67c8f-723c-42e2-b408-938d5dcec953" />
 4. Case_Files - These are the 3D printable files that are going to house the PCB, and all the switches and everything that makes the files work.
 5. Keyboard_Keycaps - These are all the pre-"Case_Files" files which are the dimensions of the actual Cherry MX Keycaps, so that the case actually fits ontop the keys.
-6. main.py - This is the code file for the keyboard, which allows for the keyboard to be properly coded, and work with my laptop. I lowk just copied it from the Blueprint guide, but right now I am trying to learn Python fully, so that I understand what is goin on, and properly.
+6. <img width="414" height="286" alt="image" src="https://github.com/user-attachments/assets/48d58836-cef0-415e-a985-6f919d0d7a53" />
+<img width="490" height="298" alt="image" src="https://github.com/user-attachments/assets/0dc5e6d5-462b-45f9-a5f5-8a932ad007ff" />
+7. main.py - This is the code file for the keyboard, which allows for the keyboard to be properly coded, and work with my laptop. I lowk just copied it from the Blueprint guide, but right now I am trying to learn Python fully, so that I understand what is goin on, and properly.
 
 That is everything in this repository, with every file, everything I worked on, and the whole process. I didn't make a journal becuase it said I don't have to. 
 
