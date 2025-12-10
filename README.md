@@ -1,6 +1,6 @@
 # My Very Own Hackpad (6-Key Macropad)
 
-**Built for Hack Club** 🚀
+**Built for Hack Club** 
 
 This is my first ever build from scratch. This is a macropad with 6 keys, made by using the tutorial provided by Hack Club.
 
@@ -8,7 +8,7 @@ My name is **Mridul Goel**, and I am a sophomore. I aspire to be a future aerosp
 
 I mainly used **KiCad** for the schematic and the main PCB wiring. Then I moved onto **Fusion 360**, working on the bottom and top case to house the microcontroller and everything.
 
-**NOTE**: I modified the original design by changing it from 4 keys to 6 keys, because I found out that this is supposed to be modified to be counted as your own—and well, who doesn't like some more keys right! 😎
+**NOTE**: I modified the original design by changing it from 4 keys to 6 keys, because I found out that this is supposed to be modified to be counted as your own—and well, who doesn't like some more keys right! 
 
 ## What Everything Is
 
@@ -35,6 +35,6 @@ These are all the pre-"Case_Files" files which are the dimensions of the actual 
 ### 5. main.py
 This is the code file for the keyboard, which allows the keyboard to be properly coded and work with my laptop. I lowkey just copied it from the Blueprint guide, but right now I am trying to learn Python fully so that I understand what is going on and can customize it properly.
 
-That is everything in this repository—with every file, everything I worked on, and the whole process. I didn't make a journal because it said I don't have to.
+That is everything in this repository with every file, everything I worked on, and the whole process. I didn't make a journal because it said I don't have to.
 
 Thanks for checking out my project! 🔧🛠️
