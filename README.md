@@ -37,4 +37,14 @@ This is the code file for the keyboard, which allows the keyboard to be properly
 
 That is everything in this repository with every file, everything I worked on, and the whole process. I didn't make a journal because it said I don't have to.
 
-Thanks for checking out my project! 🔧🛠️
+# BOM
+1 Seeed XIAO RP2040
+6 THT 1N4148 Diodes
+6 Cherry MX-style switches
+6 Keycaps
+8 SK6812 MINI-E LEDs
+4 Screws
+4 Heatset inserts
+1 3D printed case (find the CAD files in /case)
+
+Thanks for checking out my project!
